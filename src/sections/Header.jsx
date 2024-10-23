@@ -69,7 +69,7 @@ const Header = () => {
                     )}
                   >
                     <img
-                      src="/SaaS-Landing-Page/images/xora.svg"
+                      src="/images/xora.svg"
                       alt="logo"
                       width={160}
                       height={55}
