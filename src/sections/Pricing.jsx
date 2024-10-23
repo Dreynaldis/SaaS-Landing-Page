@@ -2,7 +2,7 @@ import React from "react"
 import { Element } from "react-scroll"
 import { useState } from "react"
 import clsx from "clsx"
-import { plans } from "../constants"
+import { plans } from "../constants/index.jsx"
 import CountUp from "react-countup"
 import Button from "../components/Button"
 
