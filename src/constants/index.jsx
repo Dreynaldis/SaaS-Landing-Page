@@ -1,23 +1,23 @@
 export const features = [
   {
     id: "0",
-    icon: "/images/feature-1.png",
+    icon: "/SaaS-Landing-Page/images/feature-1.png",
     caption: "Easy integration",
     title: "Work smarter not harder",
     text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
     button: {
-      icon: "/images/magictouch.svg",
+      icon: "/SaaS-Landing-Page/images/magictouch.svg",
       title: "Watch the demo",
     },
   },
   {
     id: "1",
-    icon: "/images/feature-2.png",
+    icon: "/SaaS-Landing-Page/images/feature-2.png",
     caption: "Secure & trustworthy",
     title: "Sleep easy, we got your back",
     text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
     button: {
-      icon: "/images/docs.svg",
+      icon: "/SaaS-Landing-Page/images/docs.svg",
       title: "Read the docs",
     },
   },
@@ -26,22 +26,22 @@ export const features = [
 export const details = [
   {
     id: "0",
-    icon: "/images/detail-1.png",
+    icon: "/SaaS-Landing-Page/images/detail-1.png",
     title: "AI automated video editing",
   },
   {
     id: "1",
-    icon: "/images/detail-2.png",
+    icon: "/SaaS-Landing-Page/images/detail-2.png",
     title: "Collaborate with your team",
   },
   {
     id: "2",
-    icon: "/images/detail-3.png",
+    icon: "/SaaS-Landing-Page/images/detail-3.png",
     title: "Ultra fast cloud-engine",
   },
   {
     id: "3",
-    icon: "/images/detail-4.png",
+    icon: "/SaaS-Landing-Page/images/detail-4.png",
     title: "24 / 7 Customer support",
   },
 ]
@@ -122,8 +122,8 @@ export const plans = [
       "5 projects",
       "24/7 support",
     ],
-    icon: "/images/circle.svg",
-    logo: "/images/plan-1.png",
+    icon: "/SaaS-Landing-Page/images/circle.svg",
+    logo: "/SaaS-Landing-Page/images/plan-1.png",
   },
   {
     id: "1",
@@ -137,8 +137,8 @@ export const plans = [
       "Unlimited projects",
       "Analytics",
     ],
-    icon: "/images/triangle.svg",
-    logo: "/images/plan-2.png",
+    icon: "/SaaS-Landing-Page/images/triangle.svg",
+    logo: "/SaaS-Landing-Page/images/plan-2.png",
   },
   {
     id: "2",
@@ -152,8 +152,8 @@ export const plans = [
       "50% off per member",
       "Real-time collaboration",
     ],
-    icon: "/images/hexagon.svg",
-    logo: "/images/plan-3.png",
+    icon: "/SaaS-Landing-Page/images/hexagon.svg",
+    logo: "/SaaS-Landing-Page/images/plan-3.png",
   },
 ]
 
@@ -212,35 +212,35 @@ export const logos = [
   {
     id: "0",
     title: "Afterpay",
-    url: "/images/logos/afterpay.svg",
+    url: "/SaaS-Landing-Page/images/logos/afterpay.svg",
     width: 156,
     height: 48,
   },
   {
     id: "1",
     title: "Amplitude",
-    url: "/images/logos/amplitude.svg",
+    url: "/SaaS-Landing-Page/images/logos/amplitude.svg",
     width: 194,
     height: 48,
   },
   {
     id: "2",
     title: "Sonos",
-    url: "/images/logos/sonos.svg",
+    url: "/SaaS-Landing-Page/images/logos/sonos.svg",
     width: 115,
     height: 48,
   },
   {
     id: "3",
     title: "Maze",
-    url: "/images/logos/maze.svg",
+    url: "/SaaS-Landing-Page/images/logos/maze.svg",
     width: 142,
     height: 48,
   },
   {
     id: "4",
     title: "Drips",
-    url: "/images/logos/drips.svg",
+    url: "/SaaS-Landing-Page/images/logos/drips.svg",
     width: 77,
     height: 48,
   },
@@ -405,25 +405,25 @@ export const socials = [
   {
     id: "0",
     title: "x",
-    icon: "/images/socials/x.svg",
+    icon: "/SaaS-Landing-Page/images/socials/x.svg",
     url: "#",
   },
   {
     id: "1",
     title: "Threads",
-    icon: "/images/socials/threads.svg",
+    icon: "/SaaS-Landing-Page/images/socials/threads.svg",
     url: "#",
   },
   {
     id: "2",
     title: "Instagram",
-    icon: "/images/socials/instagram.svg",
+    icon: "/SaaS-Landing-Page/images/socials/instagram.svg",
     url: "#",
   },
   {
     id: "3",
     title: "Discord",
-    icon: "/images/socials/discord.svg",
+    icon: "/SaaS-Landing-Page/images/socials/discord.svg",
     url: "#",
   },
 ]

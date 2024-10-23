@@ -19,12 +19,14 @@ const Hero = () => {
               learn, and suprisingly powerful
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon={"/images/zap.svg"}>Try it now</Button>
+              <Button icon={"/SaaS-Landing-Page/images/zap.svg"}>
+                Try it now
+              </Button>
             </LinkScroll>
           </div>
           <div className="absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none hero-img_res">
             <img
-              src="/images/hero.png"
+              src="/SaaS-Landing-Page/images/hero.png"
               alt="hero"
               className="size-1230 max-lg:h-auto"
             />
